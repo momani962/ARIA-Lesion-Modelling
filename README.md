@@ -49,6 +49,6 @@ The scripts depend on the original DHP image structure and tissue classification
 
 ## Project Context
 
-Individual MEng Mechatronic Engineering research project, University of Manchester, 2025–2026.
+Individual Mechatronic Engineering research project, University of Manchester, 2024–2025.
 
 This repository demonstrates computational lesion-modelling methods developed for research purposes. The generated models have not undergone quantitative clinical validation and are not intended for medical diagnosis.
